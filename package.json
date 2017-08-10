@@ -1,0 +1,25 @@
+{
+  "name": "lego-color-swatches",
+  "version": "0.1.0",
+  "description": "A list of LEGO color swatches",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boneskull/lego-color-swatches.git"
+  },
+  "keywords": [
+    "lego",
+    "color",
+    "swatches",
+    "colors",
+    "hex",
+    "bricks",
+    "palette"
+  ],
+  "author": "Christopher Hiller <boneskull@boneskull.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/boneskull/lego-color-swatches/issues"
+  },
+  "homepage": "https://github.com/boneskull/lego-color-swatches#readme"
+}

@@ -1,0 +1,866 @@
+{
+  "name" : "LEGO Colors (All)",
+  "colors" : [
+    {
+      "red" : 0.6469513,
+      "alpha" : 1,
+      "name" : "Aqua",
+      "blue" : 0.7786037,
+      "green" : 0.8107778
+    },
+    {
+      "red" : 0.02609405,
+      "alpha" : 1,
+      "name" : "Black",
+      "blue" : 0.08670291,
+      "green" : 0.06049831
+    },
+    {
+      "red" : 0.02176217,
+      "alpha" : 1,
+      "name" : "Blue",
+      "blue" : 0.6949669,
+      "green" : 0.2422666
+    },
+    {
+      "red" : 0.3333794,
+      "alpha" : 1,
+      "name" : "Blue-Violet",
+      "blue" : 0.7453637,
+      "green" : 0.3626934
+    },
+    {
+      "red" : 0.2422273,
+      "alpha" : 1,
+      "name" : "Bright Green",
+      "blue" : 0.2262631,
+      "green" : 0.5684147
+    },
+    {
+      "red" : 0.5590949,
+      "alpha" : 1,
+      "name" : "Bright Light Blue",
+      "blue" : 0.8917356,
+      "green" : 0.7104619
+    },
+    {
+      "red" : 0.9596514,
+      "alpha" : 1,
+      "name" : "Bright Light Orange",
+      "blue" : 0.1869309,
+      "green" : 0.6830206
+    },
+    {
+      "red" : 0.9991969,
+      "alpha" : 1,
+      "name" : "Bright Light Yellow",
+      "blue" : 0.1790338,
+      "green" : 0.9414719
+    },
+    {
+      "red" : 0.862648,
+      "alpha" : 1,
+      "name" : "Bright Pink \/ Tr. Pink",
+      "blue" : 0.7372153,
+      "green" : 0.6054249
+    },
+    {
+      "red" : 0.2723416,
+      "alpha" : 1,
+      "name" : "Brown",
+      "blue" : 0.1152134,
+      "green" : 0.1683737
+    },
+    {
+      "red" : 0.3175884,
+      "alpha" : 1,
+      "name" : "Chrome Antique Brass",
+      "blue" : 0.2325711,
+      "green" : 0.2824942
+    },
+    {
+      "red" : 0.08263311,
+      "alpha" : 1,
+      "name" : "Chrome Black",
+      "blue" : 0.1535151,
+      "green" : 0.1230241
+    },
+    {
+      "red" : 0.3529192,
+      "alpha" : 1,
+      "name" : "Chrome Blue",
+      "blue" : 0.6954024,
+      "green" : 0.5129333
+    },
+    {
+      "red" : 0.6763104,
+      "alpha" : 1,
+      "name" : "Chrome Gold",
+      "blue" : 0.1849417,
+      "green" : 0.5885306
+    },
+    {
+      "red" : 0.2016377,
+      "alpha" : 1,
+      "name" : "Chrome Green",
+      "blue" : 0.3679704,
+      "green" : 0.656361
+    },
+    {
+      "red" : 0.5954624,
+      "alpha" : 1,
+      "name" : "Chrome Pink",
+      "blue" : 0.4835668,
+      "green" : 0.2113081
+    },
+    {
+      "red" : 0.8493925,
+      "alpha" : 1,
+      "name" : "Chrome Silver",
+      "blue" : 0.8493816,
+      "green" : 0.8493671
+    },
+    {
+      "red" : 0.6157181,
+      "alpha" : 1,
+      "name" : "Copper",
+      "blue" : 0.2791658,
+      "green" : 0.4012637
+    },
+    {
+      "red" : 0.06775875,
+      "alpha" : 1,
+      "name" : "Dark Azure",
+      "blue" : 0.7407004,
+      "green" : 0.4651373
+    },
+    {
+      "red" : 0.04408412,
+      "alpha" : 1,
+      "name" : "Dark Blue",
+      "blue" : 0.314173,
+      "green" : 0.147416
+    },
+    {
+      "red" : 0.09340635,
+      "alpha" : 1,
+      "name" : "Dark Blue-Violet",
+      "blue" : 0.6279786,
+      "green" : 0.1088979
+    },
+    {
+      "red" : 0.3487482,
+      "alpha" : 1,
+      "name" : "Dark Bluish Grey",
+      "blue" : 0.3334157,
+      "green" : 0.3570423
+    },
+    {
+      "red" : 0.1555906,
+      "alpha" : 1,
+      "name" : "Dark Brown",
+      "blue" : 0.001338453,
+      "green" : 0.09813245
+    },
+    {
+      "red" : 0.4073543,
+      "alpha" : 1,
+      "name" : "Dark Flesh",
+      "blue" : 0.173291,
+      "green" : 0.2442474
+    },
+    {
+      "red" : 0.07958878,
+      "alpha" : 1,
+      "name" : "Dark Green",
+      "blue" : 0.1475008,
+      "green" : 0.215813
+    },
+    {
+      "red" : 0.3525502,
+      "alpha" : 1,
+      "name" : "Dark Grey",
+      "blue" : 0.2891764,
+      "green" : 0.3583265
+    },
+    {
+      "red" : 0.5920438,
+      "alpha" : 1,
+      "name" : "Dark Orange",
+      "blue" : 0.01295644,
+      "green" : 0.2588914
+    },
+    {
+      "red" : 0.72943,
+      "alpha" : 1,
+      "name" : "Dark Pink",
+      "blue" : 0.5595175,
+      "green" : 0.3449516
+    },
+    {
+      "red" : 0.1869024,
+      "alpha" : 1,
+      "name" : "Dark Purple",
+      "blue" : 0.4953328,
+      "green" : 0.1377386
+    },
+    {
+      "red" : 0.3664529,
+      "alpha" : 1,
+      "name" : "Dark Red",
+      "blue" : 0.05298223,
+      "green" : 0.01756957
+    },
+    {
+      "red" : 0.5118647,
+      "alpha" : 1,
+      "name" : "Dark Tan",
+      "blue" : 0.3758299,
+      "green" : 0.4691206
+    },
+    {
+      "red" : 0.06247478,
+      "alpha" : 1,
+      "name" : "Dark Turquoise",
+      "blue" : 0.5375344,
+      "green" : 0.4914
+    },
+    {
+      "red" : 0.9667706,
+      "alpha" : 1,
+      "name" : "Earth Orange",
+      "blue" : 0.09223326,
+      "green" : 0.5409932
+    },
+    {
+      "red" : 0.6505801,
+      "alpha" : 1,
+      "name" : "Fabuland Brown",
+      "blue" : 0.2476089,
+      "green" : 0.4051941
+    },
+    {
+      "red" : 0.6425341,
+      "alpha" : 1,
+      "name" : "Flat Dark Gold",
+      "blue" : 0.2651367,
+      "green" : 0.4430488
+    },
+    {
+      "red" : 0.4628896,
+      "alpha" : 1,
+      "name" : "Flat Silver",
+      "blue" : 0.4590128,
+      "green" : 0.4546251
+    },
+    {
+      "red" : 0.7683628,
+      "alpha" : 1,
+      "name" : "Flesh",
+      "blue" : 0.3347619,
+      "green" : 0.4941268
+    },
+    {
+      "red" : 0.3452941,
+      "alpha" : 1,
+      "name" : "Glitter Tr. Light Blue",
+      "blue" : 0.7228386,
+      "green" : 0.6866167
+    },
+    {
+      "red" : 0.7092355,
+      "alpha" : 1,
+      "name" : "Glitter Tr. Neon Green",
+      "blue" : 0.0343033,
+      "green" : 0.9730599
+    },
+    {
+      "red" : 0.7930168,
+      "alpha" : 1,
+      "name" : "Glow-in-the-Dark Opaque",
+      "blue" : 0.7419283,
+      "green" : 0.7993824
+    },
+    {
+      "red" : 0.8162509,
+      "alpha" : 1,
+      "name" : "Glow-in-the-Dark White",
+      "blue" : 0.8162403,
+      "green" : 0.8162265
+    },
+    {
+      "red" : 0.1181557,
+      "alpha" : 1,
+      "name" : "Green",
+      "blue" : 0.1955719,
+      "green" : 0.4042301
+    },
+    {
+      "red" : 0.8525183,
+      "alpha" : 1,
+      "name" : "Lavender",
+      "blue" : 0.9115273,
+      "green" : 0.7921215
+    },
+    {
+      "red" : 0.6185156,
+      "alpha" : 1,
+      "name" : "Light Aqua",
+      "blue" : 0.7005326,
+      "green" : 0.7165916
+    },
+    {
+      "red" : 0.650286,
+      "alpha" : 1,
+      "name" : "Light Blue",
+      "blue" : 0.8632368,
+      "green" : 0.7831025
+    },
+    {
+      "red" : 0.5599599,
+      "alpha" : 1,
+      "name" : "Light Bluish Grey",
+      "blue" : 0.5982566,
+      "green" : 0.5807883
+    },
+    {
+      "red" : 0.9524202,
+      "alpha" : 1,
+      "name" : "Light Flesh",
+      "blue" : 0.6432382,
+      "green" : 0.8087854
+    },
+    {
+      "red" : 0.7130541,
+      "alpha" : 1,
+      "name" : "Light Green",
+      "blue" : 0.6649529,
+      "green" : 0.8279587
+    },
+    {
+      "red" : 0.5388147,
+      "alpha" : 1,
+      "name" : "Light Grey",
+      "blue" : 0.5466327,
+      "green" : 0.5648038
+    },
+    {
+      "red" : 0.818144,
+      "alpha" : 1,
+      "name" : "Light Lime \/ Tr. Bright Green",
+      "blue" : 0.5905977,
+      "green" : 0.8777201
+    },
+    {
+      "red" : 0.964285,
+      "alpha" : 1,
+      "name" : "Light Orange",
+      "blue" : 0.310063,
+      "green" : 0.6762871
+    },
+    {
+      "red" : 0.9895806,
+      "alpha" : 1,
+      "name" : "Light Pink",
+      "blue" : 0.7698773,
+      "green" : 0.7496824
+    },
+    {
+      "red" : 0.7513891,
+      "alpha" : 1,
+      "name" : "Light Purple",
+      "blue" : 0.5256034,
+      "green" : 0.2870991
+    },
+    {
+      "red" : 0.9879923,
+      "alpha" : 1,
+      "name" : "Light Salmon",
+      "blue" : 0.6876652,
+      "green" : 0.6654291
+    },
+    {
+      "red" : 0.2750105,
+      "alpha" : 1,
+      "name" : "Light Turquoise",
+      "blue" : 0.6241158,
+      "green" : 0.5843189
+    },
+    {
+      "red" : 0.7416185,
+      "alpha" : 1,
+      "name" : "Light Violet",
+      "blue" : 0.8585582,
+      "green" : 0.7423421
+    },
+    {
+      "red" : 0.9783555,
+      "alpha" : 1,
+      "name" : "Light Yellow",
+      "blue" : 0.5187522,
+      "green" : 0.8861246
+    },
+    {
+      "red" : 0.6854307,
+      "alpha" : 1,
+      "name" : "Lime",
+      "blue" : 0.05521743,
+      "green" : 0.9130371
+    },
+    {
+      "red" : 0.170436,
+      "alpha" : 1,
+      "name" : "Maersk Blue",
+      "blue" : 0.7133653,
+      "green" : 0.4965606
+    },
+    {
+      "red" : 0.4939252,
+      "alpha" : 1,
+      "name" : "Magenta",
+      "blue" : 0.394859,
+      "green" : 0.1450409
+    },
+    {
+      "red" : 0.1816259,
+      "alpha" : 1,
+      "name" : "Medium Azure",
+      "blue" : 0.6953977,
+      "green" : 0.6237946
+    },
+    {
+      "red" : 0.2875835,
+      "alpha" : 1,
+      "name" : "Medium Blue",
+      "blue" : 0.8245937,
+      "green" : 0.4942846
+    },
+    {
+      "red" : 0.7480415,
+      "alpha" : 1,
+      "name" : "Medium Dark Flesh",
+      "blue" : 0.1269359,
+      "green" : 0.3586791
+    },
+    {
+      "red" : 0.950215,
+      "alpha" : 1,
+      "name" : "Medium Dark Pink",
+      "blue" : 0.633876,
+      "green" : 0.4241847
+    },
+    {
+      "red" : 0.392694,
+      "alpha" : 1,
+      "name" : "Medium Green",
+      "blue" : 0.5639501,
+      "green" : 0.8452314
+    },
+    {
+      "red" : 0.6062573,
+      "alpha" : 1,
+      "name" : "Medium Lavender",
+      "blue" : 0.6731129,
+      "green" : 0.3772294
+    },
+    {
+      "red" : 0.7348066,
+      "alpha" : 1,
+      "name" : "Medium Lime",
+      "blue" : 0.1829368,
+      "green" : 0.7981512
+    },
+    {
+      "red" : 0.9918597,
+      "alpha" : 1,
+      "name" : "Medium Orange",
+      "blue" : 0.05622561,
+      "green" : 0.5903386
+    },
+    {
+      "red" : 0.5032048,
+      "alpha" : 1,
+      "name" : "Medium Violet",
+      "blue" : 0.8674817,
+      "green" : 0.4792724
+    },
+    {
+      "red" : 0.4001964,
+      "alpha" : 1,
+      "name" : "Metal Blue",
+      "blue" : 0.5633368,
+      "green" : 0.4562315
+    },
+    {
+      "red" : 0.8213845,
+      "alpha" : 1,
+      "name" : "Metallic Gold",
+      "blue" : 0.1578963,
+      "green" : 0.6172102
+    },
+    {
+      "red" : 0.4655772,
+      "alpha" : 1,
+      "name" : "Metallic Green",
+      "blue" : 0.3007141,
+      "green" : 0.546133
+    },
+    {
+      "red" : 0.5813149,
+      "alpha" : 1,
+      "name" : "Metallic Silver",
+      "blue" : 0.6465902,
+      "green" : 0.5969689
+    },
+    {
+      "red" : 0.5384476,
+      "alpha" : 1,
+      "name" : "Olive Green",
+      "blue" : 0.2828082,
+      "green" : 0.5406831
+    },
+    {
+      "red" : 0.9849629,
+      "alpha" : 1,
+      "name" : "Orange",
+      "blue" : 0.08233325,
+      "green" : 0.4606449
+    },
+    {
+      "red" : 0.2710239,
+      "alpha" : 1,
+      "name" : "Pearl Dark Grey",
+      "blue" : 0.2709277,
+      "green" : 0.2746922
+    },
+    {
+      "red" : 0.5990639,
+      "alpha" : 1,
+      "name" : "Pearl Gold",
+      "blue" : 0.1378368,
+      "green" : 0.4254549
+    },
+    {
+      "red" : 0.8273513,
+      "alpha" : 1,
+      "name" : "Pearl Light Gold",
+      "blue" : 0.4320708,
+      "green" : 0.686648
+    },
+    {
+      "red" : 0.5430907,
+      "alpha" : 1,
+      "name" : "Pearl Light Grey",
+      "blue" : 0.5938751,
+      "green" : 0.5721627
+    },
+    {
+      "red" : 0.6073201,
+      "alpha" : 1,
+      "name" : "Pearl Very Light Grey",
+      "blue" : 0.6114591,
+      "green" : 0.6161598
+    },
+    {
+      "red" : 0.936232,
+      "alpha" : 1,
+      "name" : "Pearl White",
+      "blue" : 0.9360939,
+      "green" : 0.9412125
+    },
+    {
+      "red" : 0.9756097,
+      "alpha" : 1,
+      "name" : "Pink",
+      "blue" : 0.6121051,
+      "green" : 0.5052624
+    },
+    {
+      "red" : 0.4241627,
+      "alpha" : 1,
+      "name" : "Purple",
+      "blue" : 0.40645,
+      "green" : 0
+    },
+    {
+      "red" : 0.7315313,
+      "alpha" : 1,
+      "name" : "Red \/ Tr. Red",
+      "blue" : 0.04471781,
+      "green" : 0
+    },
+    {
+      "red" : 0.2716262,
+      "alpha" : 1,
+      "name" : "Reddish Brown",
+      "blue" : 0.05952489,
+      "green" : 0.1207334
+    },
+    {
+      "red" : 0.4786793,
+      "alpha" : 1,
+      "name" : "Reddish Lilac",
+      "blue" : 0.5208215,
+      "green" : 0.2454027
+    },
+    {
+      "red" : 0.2321865,
+      "alpha" : 1,
+      "name" : "Royal Blue",
+      "blue" : 0.8243871,
+      "green" : 0.2787608
+    },
+    {
+      "red" : 0.6334198,
+      "alpha" : 1,
+      "name" : "Rust",
+      "blue" : 0.03146634,
+      "green" : 0
+    },
+    {
+      "red" : 0.9254166,
+      "alpha" : 1,
+      "name" : "Salmon",
+      "blue" : 0.2982674,
+      "green" : 0.3475325
+    },
+    {
+      "red" : 0.305101,
+      "alpha" : 1,
+      "name" : "Sand Blue",
+      "blue" : 0.5631288,
+      "green" : 0.3731346
+    },
+    {
+      "red" : 0.5629786,
+      "alpha" : 1,
+      "name" : "Sand Green",
+      "blue" : 0.6114908,
+      "green" : 0.6871603
+    },
+    {
+      "red" : 0.4393033,
+      "alpha" : 1,
+      "name" : "Sand Purple",
+      "blue" : 0.4425701,
+      "green" : 0.2866318
+    },
+    {
+      "red" : 0.7938829,
+      "alpha" : 1,
+      "name" : "Sand Red",
+      "blue" : 0.3725933,
+      "green" : 0.3715888
+    },
+    {
+      "red" : 0.4230744,
+      "alpha" : 1,
+      "name" : "Sky Blue",
+      "blue" : 0.8343757,
+      "green" : 0.6956648
+    },
+    {
+      "red" : 0,
+      "alpha" : 1,
+      "name" : "Speckle Black Copper\/Silver\/Gold",
+      "blue" : 0,
+      "green" : 0
+    },
+    {
+      "red" : 0.3142821,
+      "alpha" : 1,
+      "name" : "Speckle Dark Bluish Grey-Silver",
+      "blue" : 0.3072572,
+      "green" : 0.2993374
+    },
+    {
+      "red" : 0.8662479,
+      "alpha" : 1,
+      "name" : "Tan",
+      "blue" : 0.5519136,
+      "green" : 0.7642537
+    },
+    {
+      "red" : 0.3143882,
+      "alpha" : 1,
+      "name" : "Tr. Black \/ Tr. Black IR Lens",
+      "blue" : 0.2533845,
+      "green" : 0.301088
+    },
+    {
+      "red" : 0.9851635,
+      "alpha" : 1,
+      "name" : "Tr. Clear",
+      "blue" : 0.9851506,
+      "green" : 0.9851339
+    },
+    {
+      "red" : 0,
+      "alpha" : 1,
+      "name" : "Tr. Dark Blue",
+      "blue" : 0.5584534,
+      "green" : 0.04108297
+    },
+    {
+      "red" : 0.8346818,
+      "alpha" : 1,
+      "name" : "Tr. Dark Pink \/ Glitter Tr. Dark Pink",
+      "blue" : 0.5132471,
+      "green" : 0.3007426
+    },
+    {
+      "red" : 0.9786289,
+      "alpha" : 1,
+      "name" : "Tr. Fire Yellow",
+      "blue" : 0.4938691,
+      "green" : 0.8967196
+    },
+    {
+      "red" : 0.9784616,
+      "alpha" : 1,
+      "name" : "Tr. Flame Yellowish Orange",
+      "blue" : 0.354716,
+      "green" : 0.6608748
+    },
+    {
+      "red" : 0.6883755,
+      "alpha" : 1,
+      "name" : "Tr. Glow-in-the-Dark",
+      "blue" : 0.6161588,
+      "green" : 0.7323607
+    },
+    {
+      "red" : 0.4495513,
+      "alpha" : 1,
+      "name" : "Tr. Green",
+      "blue" : 0.4797755,
+      "green" : 0.6646762
+    },
+    {
+      "red" : 0.6292486,
+      "alpha" : 1,
+      "name" : "Tr. Light Blue",
+      "blue" : 0.9065535,
+      "green" : 0.9271766
+    },
+    {
+      "red" : 0.5132293,
+      "alpha" : 1,
+      "name" : "Tr. Light Purple",
+      "blue" : 0.5548412,
+      "green" : 0.3522078
+    },
+    {
+      "red" : 0.6503104,
+      "alpha" : 1,
+      "name" : "Tr. Light Royal Blue",
+      "blue" : 0.9598394,
+      "green" : 0.7892346
+    },
+    {
+      "red" : 0.7715868,
+      "alpha" : 1,
+      "name" : "Tr. Medium Blue",
+      "blue" : 0.9600927,
+      "green" : 0.8569678
+    },
+    {
+      "red" : 0.9654108,
+      "alpha" : 1,
+      "name" : "Tr. Neon Green",
+      "blue" : 0.4451111,
+      "green" : 0.9434998
+    },
+    {
+      "red" : 0.9892513,
+      "alpha" : 1,
+      "name" : "Tr. Neon Orange",
+      "blue" : 0.05846972,
+      "green" : 0.4173077
+    },
+    {
+      "red" : 0.8171968,
+      "alpha" : 1,
+      "name" : "Tr. Neon Yellow",
+      "blue" : 0.02971368,
+      "green" : 0.6366649
+    },
+    {
+      "red" : 0.9177974,
+      "alpha" : 1,
+      "name" : "Tr. Orange",
+      "blue" : 0.09136055,
+      "green" : 0.4848726
+    },
+    {
+      "red" : 0.580575,
+      "alpha" : 1,
+      "name" : "Tr. Purple \/ Glitter Tr. Purple",
+      "blue" : 0.7504634,
+      "green" : 0.5744497
+    },
+    {
+      "red" : 0.7087583,
+      "alpha" : 1,
+      "name" : "Tr. Very Light Blue",
+      "blue" : 0.9258899,
+      "green" : 0.8443125
+    },
+    {
+      "red" : 0.9470667,
+      "alpha" : 1,
+      "name" : "Tr. Yellow",
+      "blue" : 0.1447039,
+      "green" : 0.7697359
+    },
+    {
+      "red" : 0.877731,
+      "alpha" : 1,
+      "name" : "Very Light Bluish Grey",
+      "blue" : 0.8494529,
+      "green" : 0.8638675
+    },
+    {
+      "red" : 0.8777897,
+      "alpha" : 1,
+      "name" : "Very Light Grey",
+      "blue" : 0.8211212,
+      "green" : 0.8648139
+    },
+    {
+      "red" : 0.9373468,
+      "alpha" : 1,
+      "name" : "Very Light Orange",
+      "blue" : 0.5394065,
+      "green" : 0.7726675
+    },
+    {
+      "red" : 0.2023264,
+      "alpha" : 1,
+      "name" : "Violet",
+      "blue" : 0.5715081,
+      "green" : 0.2454755
+    },
+    {
+      "red" : 1,
+      "alpha" : 1,
+      "name" : "White \/ Milky White \/ Glitter Tr. Clear",
+      "blue" : 0.9999913,
+      "green" : 0.9999744
+    },
+    {
+      "red" : 0.9327266,
+      "alpha" : 1,
+      "name" : "Yellow",
+      "blue" : 0.1684693,
+      "green" : 0.7698518
+    },
+    {
+      "red" : 0.8471628,
+      "alpha" : 1,
+      "name" : "Yellowish Green",
+      "blue" : 0.5821365,
+      "green" : 0.9277225
+    }
+  ]
+}
