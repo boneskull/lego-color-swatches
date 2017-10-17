@@ -6,7 +6,7 @@
 
 - `.ase` - Adobe Swatch Exchange
 - `.clr` - Apple Color List
-- `.csv` - Comma-Separated Volume
+- `.csv` - Comma-Separated Values
 - `.json` - JavaScript Object Notation
 
 ## Subsets
